@@ -1,0 +1,5 @@
+baseURL = "https://Ev1si0n.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme="casper"
+
